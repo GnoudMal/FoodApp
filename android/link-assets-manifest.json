@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/arial.ttf",
+      "sha1": "94ed380f23abc185b81be96b94001368e79164ae"
+    },
+    {
+      "path": "src/assets/fonts/Arialn.ttf",
+      "sha1": "64f6c2438da82137c60843a966c67c0378d01c64"
+    },
+    {
+      "path": "src/assets/fonts/ArialTh.ttf",
+      "sha1": "bed88479281250d0a67be79b22a06b3ee285538b"
+    },
+    {
+      "path": "src/assets/fonts/Frogie-Regular.ttf",
+      "sha1": "4444da264a36bf62f8a5aae513e2f2e53c3a4c44"
+    },
+    {
+      "path": "src/assets/fonts/FS Harabara.ttf",
+      "sha1": "69faf3887424110561bb5c29e627fa83d3bf5b13"
+    },
+    {
+      "path": "src/assets/fonts/G_ari_bd.ttf",
+      "sha1": "c3f74dcaf274e04836c118348bb625e4d400e795"
+    },
+    {
+      "path": "src/assets/fonts/UTM-Aurora.ttf",
+      "sha1": "f788bb7f403e4335a07dd9a2bfb82c52dee76c2c"
+    }
+  ]
+}
