@@ -33,13 +33,12 @@ const Register = ({ navigation }) => {
             if (error.response) {
                 Alert.alert('Lỗi', `Server trả về lỗi: ${error.response.data.message}`);
             } else if (error.request) {
-                Alert.alert('Lỗi', 'Không có phản hồi từ máy chủ.');
+                Alert.alert('Lỗi', 'Không có phản hồi từ máy chủ Chính.');
             } else {
                 Alert.alert('Lỗi', `Lỗi khi thiết lập yêu cầu: ${error.message}`);
             }
         }
     };
-
     const checkEmailExists = async (email) => {
         try {
             const response = await AxiosInstance().get('/account');
